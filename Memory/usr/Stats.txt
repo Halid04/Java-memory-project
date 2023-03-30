@@ -1,0 +1,7 @@
+claudio940,Easy,13
+claudio940,Easy,19
+claudio940,Easy,13
+claudio940,Medium,13
+claudio940,Hard,13
+guest,Easy,17
+claudio940,Easy,17
